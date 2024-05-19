@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
 
                         Navigator.pop(context);
                       },
-                      child: const Text("Add Notes 2"))
+                      child: const Text("Add Notes"))
                 ]));
   }
 
